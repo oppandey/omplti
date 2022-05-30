@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "54JmY05okO4aIgXngaQRT+ENMErqpmqFFeZBUEfO+JgMTxn6ymqrJv132/vWCNvkVWyDdVGRiGrp2oOrs8Fc1w==",
+  "success": true,
+  "projectFilePath": "/workspaces/omplti/API/API.csproj",
+  "expectedPackageFiles": [
+    "/var/nuget/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/var/nuget/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/var/nuget/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/var/nuget/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/var/nuget/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/var/nuget/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
