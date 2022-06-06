@@ -1,0 +1,11 @@
+/workspaces/omplti/API/bin/Release/net6.0/publish/API
+/workspaces/omplti/API/bin/Release/net6.0/publish/appsettings.Development.json
+/workspaces/omplti/API/bin/Release/net6.0/publish/appsettings.json
+/workspaces/omplti/API/bin/Release/net6.0/publish/API.dll
+/workspaces/omplti/API/bin/Release/net6.0/publish/API.deps.json
+/workspaces/omplti/API/bin/Release/net6.0/publish/API.runtimeconfig.json
+/workspaces/omplti/API/bin/Release/net6.0/publish/API.pdb
+/workspaces/omplti/API/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/workspaces/omplti/API/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/omplti/API/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/omplti/API/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
